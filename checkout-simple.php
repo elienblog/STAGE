@@ -14,7 +14,7 @@
 
 <body <?php body_class(); ?>>
 
-<div id="main-content" class="site-main">
+<div id="main-content" class="site-main" style="width:1000px; margin:auto;">
 
 <!-- woocommerce message -->
 
